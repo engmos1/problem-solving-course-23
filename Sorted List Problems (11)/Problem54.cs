@@ -7,18 +7,17 @@ using System.Threading.Tasks;
 
 namespace problem_solving_course_23
 {
-    class Problem51
+    class Problem54
     {
-        //Problem 51: Find Elements in a Range.
+        //Problem 54: Remove Elements Greater Than a Value.
 
         static void Main1()
         {
             SortedSet<int> sortedSet = new SortedSet<int> { 1, 2, 3, 4, 5 };
-            var range = sortedSet.GetViewBetween(2, 4);
+            var range = sortedSet.GetViewBetween(int.MinValue, 3);
 
-            Console.WriteLine(string.Join(", ", range)); // Output: 2, 3, 4
-           
-
+            sortedSet = new SortedSet<int>(range);
+            Console.WriteLine(string.Join(", ", sortedSet)); 
         }
     }
 }

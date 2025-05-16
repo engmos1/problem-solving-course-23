@@ -63,6 +63,20 @@
     <Compile Include="Dictionary &amp; Hashset Problems %2820%29\Problem33.cs" />
     <Compile Include="Dictionary &amp; Hashset Problems %2820%29\Problem32.cs" />
     <Compile Include="Dictionary &amp; Hashset Problems %2820%29\Problem31.cs" />
+    <Compile Include="Jagged Array Problems %287%29\Problem75.cs" />
+    <Compile Include="Jagged Array Problems %287%29\Problem74.cs" />
+    <Compile Include="Jagged Array Problems %287%29\Problem73.cs" />
+    <Compile Include="Jagged Array Problems %287%29\Problem72.cs" />
+    <Compile Include="Jagged Array Problems %287%29\Problem71.cs" />
+    <Compile Include="Jagged Array Problems %287%29\Problem70.cs" />
+    <Compile Include="Jagged Array Problems %287%29\Problem69.cs" />
+    <Compile Include="Observable Collection Problems %287%29\Problem68.cs" />
+    <Compile Include="Observable Collection Problems %287%29\Problem67.cs" />
+    <Compile Include="Observable Collection Problems %287%29\Problem66.cs" />
+    <Compile Include="Observable Collection Problems %287%29\Problem65.cs" />
+    <Compile Include="Observable Collection Problems %287%29\Problem64.cs" />
+    <Compile Include="Observable Collection Problems %287%29\Problem63.cs" />
+    <Compile Include="Observable Collection Problems %287%29\Problem62.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Queue &amp; Stack Problems %2830%29\Problem30.cs" />
     <Compile Include="Queue &amp; Stack Problems %2830%29\Problem29.cs" />
@@ -94,7 +108,18 @@
     <Compile Include="Queue &amp; Stack Problems %2830%29\Problem3.cs" />
     <Compile Include="Queue &amp; Stack Problems %2830%29\Problem2.cs" />
     <Compile Include="Queue &amp; Stack Problems %2830%29\Problem1.cs" />
+    <Compile Include="Sorted List Problems %2811%29\Problem61.cs" />
+    <Compile Include="Sorted List Problems %2811%29\Problem60.cs" />
+    <Compile Include="Sorted List Problems %2811%29\Problem59.cs" />
+    <Compile Include="Sorted List Problems %2811%29\Problem58.cs" />
+    <Compile Include="Sorted List Problems %2811%29\Problem57.cs" />
+    <Compile Include="Sorted List Problems %2811%29\Problem56.cs" />
+    <Compile Include="Sorted List Problems %2811%29\Problem55.cs" />
+    <Compile Include="Sorted List Problems %2811%29\Problem54.cs" />
+    <Compile Include="Sorted List Problems %2811%29\Problem53.cs" />
+    <Compile Include="Sorted List Problems %2811%29\Problem52.cs" />
     <Compile Include="Sorted List Problems %2811%29\Problem51.cs" />
+    <Compile Include="Tuples Problems %285%29\Problem75.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
