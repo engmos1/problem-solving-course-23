@@ -43,6 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BitArray Problems %2812%29\Problem92.cs" />
+    <Compile Include="BitArray Problems %2812%29\Problem91.cs" />
+    <Compile Include="BitArray Problems %2812%29\Problem90.cs" />
+    <Compile Include="BitArray Problems %2812%29\Problem89.cs" />
+    <Compile Include="BitArray Problems %2812%29\Problem88.cs" />
+    <Compile Include="BitArray Problems %2812%29\Problem87.cs" />
+    <Compile Include="BitArray Problems %2812%29\Problem86.cs" />
+    <Compile Include="BitArray Problems %2812%29\Problem85.cs" />
+    <Compile Include="BitArray Problems %2812%29\Problem84.cs" />
+    <Compile Include="BitArray Problems %2812%29\Problem83.cs" />
+    <Compile Include="BitArray Problems %2812%29\Problem82.cs" />
+    <Compile Include="BitArray Problems %2812%29\Problem81.cs" />
     <Compile Include="Dictionary &amp; Hashset Problems %2820%29\Problem50.cs" />
     <Compile Include="Dictionary &amp; Hashset Problems %2820%29\Problem49.cs" />
     <Compile Include="Dictionary &amp; Hashset Problems %2820%29\Problem48.cs" />
@@ -63,6 +75,19 @@
     <Compile Include="Dictionary &amp; Hashset Problems %2820%29\Problem33.cs" />
     <Compile Include="Dictionary &amp; Hashset Problems %2820%29\Problem32.cs" />
     <Compile Include="Dictionary &amp; Hashset Problems %2820%29\Problem31.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem105.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem104.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem103.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem102.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem101.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem100.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem99.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem98.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem97.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem96.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem95.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem94.cs" />
+    <Compile Include="Hash Table , SortedList , SortedSet Problems %2813%29\Problem93.cs" />
     <Compile Include="Jagged Array Problems %287%29\Problem75.cs" />
     <Compile Include="Jagged Array Problems %287%29\Problem74.cs" />
     <Compile Include="Jagged Array Problems %287%29\Problem73.cs" />
@@ -119,7 +144,11 @@
     <Compile Include="Sorted List Problems %2811%29\Problem53.cs" />
     <Compile Include="Sorted List Problems %2811%29\Problem52.cs" />
     <Compile Include="Sorted List Problems %2811%29\Problem51.cs" />
-    <Compile Include="Tuples Problems %285%29\Problem75.cs" />
+    <Compile Include="Tuples Problems %285%29\Problem80.cs" />
+    <Compile Include="Tuples Problems %285%29\Problem79.cs" />
+    <Compile Include="Tuples Problems %285%29\Problem78.cs" />
+    <Compile Include="Tuples Problems %285%29\Problem77.cs" />
+    <Compile Include="Tuples Problems %285%29\Problem76.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
