@@ -18,7 +18,7 @@ namespace problem_solving_course_23
         //Problem 105: Manage Reserved Seats in a Theater.
 
 
-        static void Main()
+        static void Main1()
         {
             SortedSet<int> reservedSeats = new SortedSet<int> { 10, 20, 30 };
 
